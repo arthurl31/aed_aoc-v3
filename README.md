@@ -1,5 +1,7 @@
-# aed_aoc-v3
-Este trabalho foi executado de maneira interdisciplinar, unindo as disciplinas de AED (Algorítmos e Estruturas de Dados) e AOC (Arquitetura e Organização de Computadores.
+# AED_AOC-V3
+#### Este trabalho foi desenvolvido por [Arthur Luiz](https://github.com/arthurl31) e [Gabrielle Rosanne](https://github.com/arthurl31)
+
+Este trabalho foi executado de maneira interdisciplinar no segundo semestre do cuso de graduação de Sistemas de Informação, unindo as disciplinas de AED (Algorítmos e Estruturas de Dados) e AOC (Arquitetura e Organização de Computadores.
 
 ## Sobre o simulador
 O simulador consiste em simular o funcionamento da troca de blocos entre uma memória principal e uma
@@ -28,3 +30,5 @@ memória cache, associativa por conjunto de N posições, durante a execução d
         c - Visualização dos blocos carregados na memória cache, passo a passo.
         d - Visualização da troca de blocos entre as memórias, utilizando o algoritmo de substituição
            previamente selecionado.
+           
+       
