@@ -1,5 +1,5 @@
 # aed_aoc-v3
-Este trabalho foi executado de maneira interdisciplinar, unindo as disciplinas de AED e AOC.
+Este trabalho foi executado de maneira interdisciplinar, unindo as disciplinas de AED (Algorítmos e Estruturas de Dados) e AOC (Arquitetura e Organização de Computadores.
 
 ## Sobre o simulador
 O simulador consiste em simular o funcionamento da troca de blocos entre uma memória principal e uma
