@@ -1,5 +1,5 @@
 # AED_AOC-V3
-#### Este trabalho foi desenvolvido por [Arthur Luiz](https://github.com/arthurl31) e [Gabrielle Rosanne](https://github.com/arthurl31)
+#### Este trabalho foi desenvolvido por [Arthur Luiz](https://github.com/arthurl31) e [Gabrielle Rosanne](https://github.com/GabrielleRSAlbergaria)
 
 Este trabalho foi executado de maneira interdisciplinar no segundo semestre do cuso de graduação de Sistemas de Informação, unindo as disciplinas de AED (Algorítmos e Estruturas de Dados) e AOC (Arquitetura e Organização de Computadores.
 
