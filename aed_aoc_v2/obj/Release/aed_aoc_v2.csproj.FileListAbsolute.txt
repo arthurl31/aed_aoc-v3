@@ -1,0 +1,22 @@
+C:\Users\arthur\Desktop\kkkkkkk\aed_aoc_v2\bin\Release\aed_aoc_v2.exe.config
+C:\Users\arthur\Desktop\kkkkkkk\aed_aoc_v2\bin\Release\aed_aoc_v2.exe
+C:\Users\arthur\Desktop\kkkkkkk\aed_aoc_v2\bin\Release\aed_aoc_v2.pdb
+C:\Users\arthur\Desktop\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.Form1.resources
+C:\Users\arthur\Desktop\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.Properties.Resources.resources
+C:\Users\arthur\Desktop\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.TelaCarregamento.resources
+C:\Users\arthur\Desktop\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.csproj.GenerateResource.cache
+C:\Users\arthur\Desktop\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.csproj.CoreCompileInputs.cache
+C:\Users\arthur\Desktop\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.exe
+C:\Users\arthur\Desktop\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.pdb
+C:\Users\arthur\Desktop\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.csprojAssemblyReference.cache
+C:\Users\arthur\Desktop\trab pronto\kkkkkkk\aed_aoc_v2\bin\Release\aed_aoc_v2.exe.config
+C:\Users\arthur\Desktop\trab pronto\kkkkkkk\aed_aoc_v2\bin\Release\aed_aoc_v2.exe
+C:\Users\arthur\Desktop\trab pronto\kkkkkkk\aed_aoc_v2\bin\Release\aed_aoc_v2.pdb
+C:\Users\arthur\Desktop\trab pronto\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.csprojAssemblyReference.cache
+C:\Users\arthur\Desktop\trab pronto\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.Form1.resources
+C:\Users\arthur\Desktop\trab pronto\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.Properties.Resources.resources
+C:\Users\arthur\Desktop\trab pronto\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.TelaCarregamento.resources
+C:\Users\arthur\Desktop\trab pronto\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.csproj.GenerateResource.cache
+C:\Users\arthur\Desktop\trab pronto\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.csproj.CoreCompileInputs.cache
+C:\Users\arthur\Desktop\trab pronto\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.exe
+C:\Users\arthur\Desktop\trab pronto\kkkkkkk\aed_aoc_v2\obj\Release\aed_aoc_v2.pdb
